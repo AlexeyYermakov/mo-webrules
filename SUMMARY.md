@@ -1,5 +1,5 @@
 # Summary
 
 * [Введение](README.md)
-* [PSD/](psd/psd.md)
+* [Дизайн / PSD макеты ](psd/psd.md)
 
