@@ -1,2 +1,2 @@
 # mo-webrules
-WebRules book for notes about best practices and standards
+WebRules - сайт для ведения заметок о стандартах, наилучших практиках и типичных решенииях.
