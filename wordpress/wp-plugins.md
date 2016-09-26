@@ -12,3 +12,5 @@
 8. `qtranslate X` - плагін двомовності
 9. `qtranslate X ACF` - для додатково створених полів
 10. `All In One SEO Pack` - плагін для сео
+10. `Contact form 7` - форма отправки данных
+10. `Contact form DB` - для сохр-ния данных из формы

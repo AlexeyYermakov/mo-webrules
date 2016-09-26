@@ -17,9 +17,17 @@
 
 ### Wordpress
 * [Основные требования](wordpress/wp-1.md)
-* [](wordpress/wp-2.md)
-* [](wordpress/wp-3.md)
+* [CSS](wordpress/wp-2.md)
+* [Виджеты](wordpress/wp-3.md)
+* [](wordpress/wp-4.md)
 * [Полезные плагины](wordpress/wp-plugins.md)
+
+### Opencart/OcStore
+* [Основные требования](opencart/oc-1.md)
+* [CSS](opencart/oc-2.md)
+* [Виджеты](opencart/oc-3.md)
+* [](opencart/oc-4.md)
+* [Полезные плагины](opencart/oc-plugins.md)
 ----
 
 * [Last part without title](part3/title.md)
