@@ -1,20 +1,20 @@
 # Summary
 
-### Part I
+### Введение
 
 * [Введение](README.md)
 
-### Part II
-
+### Распоряжения
 * [Распоряжения](instructions/instructions.md)
   * [Кто](intro/who.md)
   * [Почему](intro/why.md)
   * [Зачем](intro/what-for.md)
   * [Для кого](intro/for-whom.md)
 
-### Part III
-
-* [Дизайн / PSD макеты ](psd/psd.md)
+### Дизайн / PSD макеты
+* [Организация работы и файлы](psd/psd-1.md)
+* [Слои документа](psd/psd-2.md)
+* [Особенности дизайна и Макет](psd/psd-3.md)
 
 ----
 
