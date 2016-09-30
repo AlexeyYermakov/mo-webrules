@@ -1,5 +1,3 @@
-# Summary
-
 ### Введение
 
 * [Введение](README.md)
@@ -19,6 +17,13 @@
 * [Корпоративный стиль CSS](corp-css.md)
 
 ---
+### Основные требования к продуктам для их сдачи/постановки на проверку
+* [Дизайн](requirement/requirement-design.md)
+* [Front End](requirement/requirement-front.md)
+* [Back End](requirement/requirement-back.md)
+* [SEO](requirement/requirement-seo.md)
+* []()
+---
 ### Wordpress
 * [Основные требования](wordpress/wp-basic.md)
 * [CSS](wordpress/wp-css.md)
@@ -32,7 +37,17 @@
 * [Полезные плагины](opencart/oc-plugins.md)
 
 ---
-* [Полезные ссылки](links.md)
-----
+### Gulp/Bower/npm
+* [Gulp](gulp/gulp-basic.md)
 
-* [Last part without title](part3/title.md)
+---
+### Организация коммуникаций и ведения проектов
+* [Jira](organization/org-jira.md)
+* [Slack](organization/org-slack.md)
+* [Email](organization/org-email.md)
+* [Google Drive](organization/org-gdrive.md)
+
+---
+
+* [Полезные ссылки](links.md)
+

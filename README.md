@@ -10,4 +10,5 @@ WebRules - сайт для ведения заметок о стандартах
 3. [Корпоративный стиль CSS](corp-css.md)
 4. [Wordpress](wordpress/wp-basic.html)
 5. [Opencart/OcStore](opencart/oc-basic.html)
-6. [Полезные ссылки](links.html)
+6. [Gulp](gulp/gulp-basic.html)
+7. [Полезные ссылки](links.html)
