@@ -1,20 +1,16 @@
 ### Введение
 
 * [Введение](README.md)
-
----
-### Дизайн / PSD макеты
-* [Организация работы и файлы](psd/psd-1.md)
-* [Слои документа](psd/psd-2.md)
-* [Особенности дизайна и Макет](psd/psd-3.md)
-
----
-### Корпоративный стиль HTML
+* [Основные ресурсы OT](corp-source.md)
 * [Корпоративный стиль HTML](corp-html.md)
+* [Корпоративный стиль CSS](corp-css.md)
 
 ---
-### Корпоративный стиль CSS
-* [Корпоративный стиль CSS](corp-css.md)
+### Организация коммуникаций и ведения проектов
+* [Jira](organization/org-jira.md)
+* [Slack](organization/org-slack.md)
+* [Email](organization/org-email.md)
+* [Google Drive](organization/org-gdrive.md)
 
 ---
 ### Основные требования к продуктам для их сдачи/постановки на проверку
@@ -23,6 +19,13 @@
 * [Back End](requirement/requirement-back.md)
 * [SEO](requirement/requirement-seo.md)
 * []()
+
+---
+### Дизайн / PSD макеты
+* [Организация работы и файлы](psd/psd-1.md)
+* [Слои документа](psd/psd-2.md)
+* [Особенности дизайна и Макет](psd/psd-3.md)
+
 ---
 ### Wordpress
 * [Основные требования](wordpress/wp-basic.md)
@@ -39,13 +42,6 @@
 ---
 ### Gulp/Bower/npm
 * [Gulp](gulp/gulp-basic.md)
-
----
-### Организация коммуникаций и ведения проектов
-* [Jira](organization/org-jira.md)
-* [Slack](organization/org-slack.md)
-* [Email](organization/org-email.md)
-* [Google Drive](organization/org-gdrive.md)
 
 ---
 

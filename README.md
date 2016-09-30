@@ -5,10 +5,26 @@ WebRules - сайт для ведения заметок о стандартах
 
 ## Структура сайта
 
-1. [Дизайн / PSD макеты](psd/psd-1.html)
-2. [Корпоративный стиль HTML](corp-html.md)
-3. [Корпоративный стиль CSS](corp-css.md)
-4. [Wordpress](wordpress/wp-basic.html)
-5. [Opencart/OcStore](opencart/oc-basic.html)
-6. [Gulp](gulp/gulp-basic.html)
-7. [Полезные ссылки](links.html)
++ [Основные ресурсы компании](corp-source.md)
++ [Корпоративный стиль HTML](corp-html.md)
++ [Корпоративный стиль CSS](corp-css.md)
+
+###Организация коммуникаций и ведения проектов
++ [Jira]
++ [Slack]
++ [Email]
++ [Google]
++ [Github]
+
+### Основные требования к продуктам для их сдачи/постановки на проверку
++ Дизайн
++ Front End
++ Back End
++ SEO
++ SMM
+
++ [Дизайн / PSD макеты](psd/psd-1.html)
++ [Wordpress](wordpress/wp-basic.html)
++ [Opencart/OcStore](opencart/oc-basic.html)
++ [Gulp](gulp/gulp-basic.html)
++ [Полезные ссылки](links.html)
