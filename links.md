@@ -3,9 +3,9 @@
 ---
 
 * @@ Статистика использования браузеров в RUнете за август 2016 года
-* http://alexvaleev.ru/browserstat/2016/8/
-* https://www.w3counter.com/globalstats.php
-* https://www.w3counter.com/trends
+  * http://alexvaleev.ru/browserstat/2016/8/
+  * https://www.w3counter.com/globalstats.php
+  * https://www.w3counter.com/trends
 * @@ СТАТИСТИКА РАЗРЕШЕНИЙ ЭКРАНА http://ru.screenresolution.org/
 * @@ Ваш браузер устарел   https://browser-update.org/ru/#
 * @@ Онлайн генераторы микроразметки -- http://seowarlock.ru/microformat/ 
