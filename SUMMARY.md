@@ -12,6 +12,7 @@
 * [Jira](organization/org-jira.md)
 * [Slack](organization/org-slack.md)
 * [Email](organization/org-email.md)
+* [Github](organization/org-github.md)
 * [Google Drive](organization/org-gdrive.md)
 
 ---
