@@ -1,5 +1,6 @@
 ### Введение
 
+* [Стандарти](standarts.md)
 * [Введение](README.md)
 * [Основные ресурсы OT](corp-source.md)
 * [Корпоративный стиль HTML](corp-html.md)
