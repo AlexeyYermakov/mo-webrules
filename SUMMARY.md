@@ -30,6 +30,9 @@
 * [Основные требования](opencart/oc-basic.md)
 * [HTML/CSS](opencart/oc-html-css.md)
 * [Полезные плагины](opencart/oc-plugins.md)
+
+---
+* [Полезные ссылки](links.md)
 ----
 
 * [Last part without title](part3/title.md)

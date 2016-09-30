@@ -8,7 +8,7 @@
 4. `Google XML Sitemaps` - sitemap
 5. `Intuitive Custom Post Order` - змінити порядок слідування (користувацьке сортування)
 6. `OptionTree` - налаштування сайту
-7. `Advanced Custom Fields Pro` - для створення додаткових полів (версія про коштує 100$)
+7. `Advanced Custom Fields Pro` - для створення додаткових полів (версія про коштує 100$). Є безкоштовний в ньому немає деяких функцій повної версії.
 8. `qtranslate X` - плагін двомовності
 9. `qtranslate X ACF` - для додатково створених полів
 10. `All In One SEO Pack` - плагін для сео

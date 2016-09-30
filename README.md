@@ -5,8 +5,9 @@ WebRules - сайт для ведения заметок о стандартах
 
 ## Структура сайта
 
-1. [Дизайн / PSD макеты](../psd/psd-1.html)
+1. [Дизайн / PSD макеты](psd/psd-1.html)
 2. [Корпоративный стиль HTML](corp-html.md)
 3. [Корпоративный стиль CSS](corp-css.md)
-4. [Wordpress](../wordpress/wp-basic.html)
-5. [Opencart/OcStore](../opencart/oc-basic.html)
+4. [Wordpress](wordpress/wp-basic.html)
+5. [Opencart/OcStore](opencart/oc-basic.html)
+6. [Полезные ссылки](links.html)
